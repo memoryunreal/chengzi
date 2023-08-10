@@ -5,3 +5,5 @@ Pillow
 pyclipper
 Shapely
 tornado
+pdf2image
+Flask
